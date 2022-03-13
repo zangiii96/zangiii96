@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zangiii96
+- 👋 Hi, I’m Michael Zangi
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning java,javascript,c++,.net framwork
 - 💞️ I’m looking to collaborate on working to design and develop smart technology systems
